@@ -1,6 +1,8 @@
 serverless-webrtc with minimum sdp
 ==================================
 
+Demo can be found at http://wesselwessels.github.io/minisdp
+
 This project is a clone of https://github.com/cjb/serverless-webrtc
 
 and uses inspirations and code from https://webrtchacks.com/the-minimum-viable-sdp/ 
